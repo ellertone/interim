@@ -1,9 +1,11 @@
 package com.methods;
 
 public class Greeting {
-    public static void main(String[] args) {
-        //Take 2 inputs and print the sum
+    public static void main(StringsType[] args) {
+        greeting();
+    }
+    static void greeting(){
+        System.out.println("Hello You.");
 
     }
-    static void
 }
