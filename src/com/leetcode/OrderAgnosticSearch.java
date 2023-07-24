@@ -1,4 +1,4 @@
-package com.binarysearch;
+package com.leetcode;
 
 public class OrderAgnosticSearch {
     public static void main(String[] args) {
